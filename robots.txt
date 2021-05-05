@@ -1,0 +1,17 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Group 2
+User-agent: Adsbot-Google
+Disallow: /nogooglebot/
+
+# Group 3
+User-agent: Mediapartners-Google
+Disallow: /nogooglebot/
+
+# Group 4
+User-agent: *
+Allow: /
+
+Sitemap: http://nimazare.ir/sitemap.xml
