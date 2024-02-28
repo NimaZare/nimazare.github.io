@@ -14,4 +14,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://nimazare.ir/sitemap.xml
+Sitemap: https://nimazare.org/sitemap.xml
